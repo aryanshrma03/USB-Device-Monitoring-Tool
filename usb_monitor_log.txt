@@ -17,3 +17,4 @@ Improved event logging functionality - 01/16/2024 10:42:37
 Improved event processing speed - 01/16/2024 12:35:28
 Added removable storage analysis - 01/20/2024 16:51:26
 Improved removable device tracking - 01/20/2024 10:15:25
+Enhanced scanner stability - 01/20/2024 17:19:19
