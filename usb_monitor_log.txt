@@ -19,3 +19,4 @@ Added removable storage analysis - 01/20/2024 16:51:26
 Improved removable device tracking - 01/20/2024 10:15:25
 Enhanced scanner stability - 01/20/2024 17:19:19
 Added automatic device logging - 01/24/2024 18:31:02
+Enhanced device validation workflow - 01/24/2024 19:01:39
