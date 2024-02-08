@@ -29,3 +29,4 @@ Improved hardware event analysis - 02/03/2024 22:01:06
 Fixed minor monitoring inconsistencies - 02/03/2024 10:33:39
 Added device whitelist support - 02/05/2024 22:34:06
 Enhanced monitoring dashboard - 02/05/2024 22:50:13
+Improved USB event handling - 02/08/2024 18:46:51
