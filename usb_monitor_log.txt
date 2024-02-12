@@ -35,3 +35,4 @@ Improved alert handling system - 02/08/2024 12:19:53
 Improved alert handling system - 02/15/2024 22:17:29
 Initialized USB device monitoring module - 02/15/2024 14:29:26
 Enhanced monitoring service stability - 02/12/2024 16:40:06
+Improved device filtering logic - 02/12/2024 15:51:04
