@@ -41,3 +41,4 @@ Added device connection logging - 02/13/2024 22:25:37
 Added background monitoring support - 02/22/2024 10:05:02
 Enhanced alert notification system - 02/22/2024 15:23:02
 Added background monitoring support - 02/23/2024 15:23:09
+Updated monitoring thresholds - 02/23/2024 19:18:07
